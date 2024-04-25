@@ -1,1 +1,1 @@
-Coming Soon Template
+Coming Soon 
