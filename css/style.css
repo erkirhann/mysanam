@@ -1043,16 +1043,19 @@ h2 {
 .navbar {
     background-color: #333;
     overflow: hidden;
+	
 }
 
 .navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+	
 }
 
 .navbar ul li {
     float: left;
+	
 }
 
 .navbar ul li a {
@@ -1061,6 +1064,7 @@ h2 {
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
+	
 }
 
 .navbar ul li a:hover {
